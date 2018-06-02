@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer_01",
+  "version": "1.0.0",
+  "description": "简书文章源码： https://www.jianshu.com/p/56babda610f9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wu0792/puppeteer_01.git"
+  },
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wu0792/puppeteer_01/issues"
+  },
+  "homepage": "https://github.com/wu0792/puppeteer_01#readme"
+}
